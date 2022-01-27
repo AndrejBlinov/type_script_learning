@@ -19,7 +19,7 @@
     let notShureType: any = false;
     notShureType = '123';
 
-    //EnubType
+    //Enum Type
     enum Directions {
         left,
         right,
